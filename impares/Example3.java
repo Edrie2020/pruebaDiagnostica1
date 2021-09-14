@@ -12,6 +12,9 @@ public class Example3 {
 		int sumatoria = Example3.mostrarNumerosPares1(n);
 		System.out.println(sumatoria);
 	}
+
+
+	
 	public static int mostrarNumerosPares1(int n) {
 		int limite = n;
 		int sumatoria = 0;
